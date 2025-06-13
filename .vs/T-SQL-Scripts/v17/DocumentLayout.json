@@ -1,0 +1,27 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Repositories\\T-SQL-Scripts\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{956e1b22-878b-499b-ac5c-2705c05370ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{956e1b22-878b-499b-ac5c-2705c05370ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
